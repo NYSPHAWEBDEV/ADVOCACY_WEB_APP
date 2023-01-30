@@ -1,0 +1,88 @@
+
+.mainContainer{
+    height: 100%;
+}
+
+  .flexContainer{
+    height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+  }
+  .cardDetail p{
+ 
+      text-align: left;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 3; /* number of lines to show */
+      -webkit-box-orient: vertical;
+  }
+
+  .cardEvent {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas:
+    "cardImage cardDetail"
+    ;
+    margin: 20px 0;
+    background-color: rgb(216, 213, 213);
+  }
+  
+  .cardEvent:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+.cardImage{
+  grid-area: cardImage;
+
+}
+.cardImage img{
+  width: 100%;
+  max-height: 250px;
+}
+.cardDetail{
+  padding: 0 10px;
+  grid-area: cardDetail;
+}
+.chipDetail{
+  display: flex;
+  padding: 10px 10px;
+}
+@media only screen and (max-width: 992px) {
+  .cardDetail p{
+    -webkit-line-clamp: 2; 
+}
+}
+
+
+@media only screen and (max-width: 768px) {
+  .cardEvent {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+  .cardDetail p{
+    -webkit-line-clamp: 3; 
+}
+}
+@media only screen and (max-width: 576px) {
+  .cardEvent {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+  }
+  .cardDetail p{
+    -webkit-line-clamp: 3; 
+}
+}
+
+
+
+
+

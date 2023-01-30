@@ -1,0 +1,28 @@
+.form-title{
+    padding: 20px;
+    margin: 20px;
+}
+.form-desc{
+    text-align: left;
+}
+.form-desc h4{
+    text-align: center;
+}
+.form-desc p{
+    text-align: justify;
+    text-justify: auto;
+}
+.bck{
+    background-color: grey;
+}
+.paper {
+    height: 140;
+    width: 100;
+    background-color: red;
+  }
+  .MuiFormControl-root{
+      width: 100%;
+  }
+  .formContainer{
+      margin: 20px 0;
+  }

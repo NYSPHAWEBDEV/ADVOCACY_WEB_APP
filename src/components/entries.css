@@ -1,0 +1,30 @@
+.mainGridContainer{
+    border-top: solid;
+    border-width: 1px;
+    border-color:#bac0ce;
+
+
+}
+
+.filterGrid{
+border-right: solid;
+border-bottom: solid;
+border-width: 1px;
+border-color:#bac0ce;
+
+}
+.gridItemHead{
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color:#bac0ce;
+}
+.gridItem{
+    display: flex;
+    padding: 10px 0 0 0;
+    width: 90%;
+    align-items: flex-end;
+
+}

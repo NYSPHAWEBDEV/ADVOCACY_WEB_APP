@@ -1,0 +1,178 @@
+{
+   "results":[
+      {
+         "id":"ocd-person/f06d8480-e875-5184-8316-4140a912a03d",
+         "name":"Hakeem S. Jeffries",
+         "party":"Democratic",
+         "current_role":{
+            "title":"Representative",
+            "org_classification":"lower",
+            "district":"NY-8",
+            "division_id":"ocd-division/country:us/state:ny/cd:8"
+         },
+         "jurisdiction":{
+            "id":"ocd-jurisdiction/country:us/government",
+            "name":"United States",
+            "classification":"country"
+         },
+         "given_name":"Hakeem",
+         "family_name":"Jeffries",
+         "image":"https://theunitedstates.io/images/congress/450x550/J000294.jpg",
+         "email":"",
+         "gender":"M",
+         "birth_date":"1970-08-04",
+         "death_date":"",
+         "extras":{
+            
+         },
+         "created_at":"2021-05-10T15:11:42.129282+00:00",
+         "updated_at":"2023-01-13T00:20:22.334469+00:00",
+         "openstates_url":"https://openstates.org/person/hakeem-s-jeffries-7JgCu9SH4hJ5AGQsVscpuH/",
+         "links":[
+            {
+               "url":"https://jeffries.house.gov",
+               "note":"website"
+            }
+         ],
+         "offices":[
+            {
+               "name":"Capitol Office",
+               "fax":"",
+               "voice":"202-225-5936",
+               "address":"2433 Rayburn House Office Building Washington DC 20515-3208",
+               "classification":"capitol"
+            },
+            {
+               "name":"District Office #1",
+               "fax":"",
+               "voice":"718-373-0033",
+               "address":"445 Neptune Ave 1st Floor, Community Room 2C; Brooklyn, NY 11224",
+               "classification":"district"
+            },
+            {
+               "name":"District Office #2",
+               "fax":"",
+               "voice":"718-237-2211",
+               "address":"55 Hanson Pl. Suite 603; Brooklyn, NY 11217",
+               "classification":"district"
+            }
+         ]
+      },
+      {
+         "id":"ocd-person/67047d73-acc1-4d6f-b580-fbeee33cc1f8",
+         "name":"Jaime R. Williams",
+         "party":"Democratic",
+         "current_role":{
+            "title":"Assembly Member",
+            "org_classification":"lower",
+            "district":"59",
+            "division_id":"ocd-division/country:us/state:ny/sldl:59"
+         },
+         "jurisdiction":{
+            "id":"ocd-jurisdiction/country:us/state:ny/government",
+            "name":"New York",
+            "classification":"state"
+         },
+         "given_name":"Jaime",
+         "family_name":"Williams",
+         "image":"https://assembly.state.ny.us/write/upload/member_files/059/headshot/059.jpg?hst=1660073711",
+         "email":"williamsja@nyassembly.gov",
+         "gender":"",
+         "birth_date":"",
+         "death_date":"",
+         "extras":{
+            
+         },
+         "created_at":"2018-10-18T14:56:00.961910+00:00",
+         "updated_at":"2023-01-12T14:35:14.716856+00:00",
+         "openstates_url":"https://openstates.org/person/jaime-r-williams-38OGDjJCOpRoEvS1iyQNvU/",
+         "links":[
+            {
+               "url":"http://assembly.state.ny.us/mem/?sh=email",
+               "note":""
+            },
+            {
+               "url":"https://assembly.state.ny.us/mem/Jaime-R-Williams",
+               "note":""
+            }
+         ],
+         "offices":[
+            {
+               "name":"Capitol Office",
+               "fax":"",
+               "voice":"518-455-5211",
+               "address":"LOB 456; Albany, NY 12248",
+               "classification":"capitol"
+            },
+            {
+               "name":"District Office",
+               "fax":"718-252-2417",
+               "voice":"718-252-2124",
+               "address":"5318 Avenue N; 1st Floor Store; Brooklyn, NY 11234",
+               "classification":"district"
+            }
+         ]
+      },
+      {
+         "id":"ocd-person/dbf73f29-d4ce-4192-b8fe-42b3ac538dda",
+         "name":"Kevin S. Parker",
+         "party":"Democratic",
+         "current_role":{
+            "title":"Senator",
+            "org_classification":"upper",
+            "district":"21",
+            "division_id":"ocd-division/country:us/state:ny/sldu:21"
+         },
+         "jurisdiction":{
+            "id":"ocd-jurisdiction/country:us/state:ny/government",
+            "name":"New York",
+            "classification":"state"
+         },
+         "given_name":"Kevin",
+         "family_name":"Parker",
+         "image":"https://www.nysenate.gov/sites/default/files/styles/160x160/public/2019kphs.jpg?itok=savOnro2",
+         "email":"parker@nysenate.gov",
+         "gender":"",
+         "birth_date":"",
+         "death_date":"",
+         "extras":{
+            
+         },
+         "created_at":"2018-10-18T14:56:10.847021+00:00",
+         "updated_at":"2023-01-12T14:34:57.609669+00:00",
+         "openstates_url":"https://openstates.org/person/kevin-s-parker-6h4JK6eKW57oIftFOHUIDC/",
+         "links":[
+            {
+               "url":"http://www.nysenate.gov/senators-committees",
+               "note":""
+            },
+            {
+               "url":"http://www.nysenate.gov/senators/kevin-s-parker/contact",
+               "note":""
+            }
+         ],
+         "offices":[
+            {
+               "name":"Capitol Office",
+               "fax":"",
+               "voice":"518-455-2580",
+               "address":"172 State Street Room 504, Capitol Building;Albany,, NY 12247",
+               "classification":"capitol"
+            },
+            {
+               "name":"District Office #1",
+               "fax":"518-426-6843",
+               "voice":"718-629-6401",
+               "address":"3021 Tilden Ave.,;Brooklyn,, NY 11226-5107",
+               "classification":"district"
+            }
+         ]
+      }
+   ],
+   "pagination":{
+      "per_page":10,
+      "page":1,
+      "max_page":1,
+      "total_items":3
+   }
+}
